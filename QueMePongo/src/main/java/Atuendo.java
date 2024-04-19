@@ -1,0 +1,2 @@
+public class Atuendo {
+}
